@@ -1,0 +1,36 @@
+.navbar-brand {
+        border-radius: 0;
+    }
+    .nav-item {
+        margin-left: 1rem;
+    }
+  /* Styling for Jumbotron */
+  .jumbotron {
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+  }
+  .jumbotron h1 {
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  .jumbotron p {
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  .quote-container {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.quote {
+    font-size: 24px;
+    font-style: italic;
+}
+
+.author {
+    font-size: 18px;
+}
